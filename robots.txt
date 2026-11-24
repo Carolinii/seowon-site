@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--in2bz7nfzehta.kr/sitemap.xml
